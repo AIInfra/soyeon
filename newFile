@@ -37,3 +37,5 @@ public class state {
 	public static final int DSP_STOP=0x129;
 	public static final int DSP_TRIGGER_FAIL=0x130;
 }
+static void call {}
+
